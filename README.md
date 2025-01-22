@@ -1,16 +1,27 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**Deivid-Martins/Deivid-Martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Olá, me chamo Deivid Martins, sou estudante de Ciência da Computação na UEPB, e sou facinado pela tecnologia.<br>
+  Atualmente estou me desenvolvendo no mundo do desenvolvimento, vendo sobre React(Com Typescript) e Springboot.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: **Java, Javascript, Python, PHP**
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: **Bancos de dados SQL(Preferencialmente PostgreSQL), React, Django, Springboot**
+</p>
+
+<p align="left">
+  💌 Entre em contato comigo onde preferir logo abaixo: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deivid-martins/" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5583996011988" alt="WhatsApp"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/deivid_martins._/" alt="Instagram"/></a>
+</p>

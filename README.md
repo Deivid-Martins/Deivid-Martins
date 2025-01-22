@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, me chamo Deivid Martins, sou estudante de Ciência da Computação na UEPB, e sou facinado pela tecnologia.<br>
-  Atualmente estou me desenvolvendo no mundo do desenvolvimento, vendo sobre React(Com Typescript) e Springboot.
+  Atualmente estou estudando desenvolvimento Web, lendo e assistindo coisas sobre React(Com Typescript) e Springboot.
 </p>
 
 <p align="left">

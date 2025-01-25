@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: ** Java, Javascript, Python, PHP **
+  🦄 Linguagens: Java, Javascript, Python, PHP
 </p>
 
 <p align="left">
-  💼 Ferramentas: ** Bancos de dados SQL(Preferencialmente PostgreSQL), React, Django, Springboot **
+  💼 Ferramentas: Bancos de dados SQL(Preferencialmente PostgreSQL), React, Django, Springboot
 </p>
 
 <p align="left">

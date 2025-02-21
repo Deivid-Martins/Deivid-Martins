@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, me chamo Deivid Martins, sou estudante de Ciência da Computação na UEPB, e sou facinado pela tecnologia.<br>
+  <strong>Olá, me chamo Deivid Martins, sou estudante de Ciência da Computação na UEPB, e sou facinado pela tecnologia.</strong></br>
   Atualmente estou estudando desenvolvimento Web, com .Net e Next.js(Com Typescript).
 </p>
 

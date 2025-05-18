@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: C#, Javascript, Java, Python
+  🦄 Linguagens: C#, Typescript, Javascript, Java, Python
 </p>
 
 <p align="left">
-  💼 Ferramentas: Bancos de dados SQL(Preferencialmente PostgreSQL), React, .Net(ASP.Net), Django, Springboot
+  💼 Ferramentas: Bancos de dados SQL(Preferencialmente PostgreSQL), React, Next, .NET(ASP.NET), Django, Springboot
 </p>
 
 <p align="left">

@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Bancos de dados SQL(Preferencialmente PostgreSQL), React, Next.js, .NET(ASP.NET), Nest.js, Django, Springboot
+  💼 Ferramentas: Bancos de dados SQL(Preferencialmente PostgreSQL), React, Next.js, .NET(ASP.NET), AWS, Nest.js, Django, Springboot
 </p>
 
 <p align="left">
